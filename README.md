@@ -98,6 +98,8 @@ After choosing the visuals I made the data Visualizations in PowerBI. Below are 
 ## TASK 4: COMMUNICATING INSIGHTS AND ANALYSIS
 After making the visuals, I presented my findings to the CEO and CMO.  Below is the video:
 
+[▶️  (Presentation Video)](Tatagroup_presentation.mp4) 
+
 ## Certificate of Completion
 
 [🔗  (Certificate PDF)](Tata_certificate_EannBaraka.pdf) 
