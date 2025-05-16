@@ -1,16 +1,16 @@
-# Tata-Data-Visualizations-Virtual-Internship
+# 📊 Tata-Data-Visualizations-Virtual-Internship
 This repository holds all of the completes tasks I was needed to complete for the TATA Data Visualization Empowering Business with Effective Insights Virtual Experience Program
-## 1. Project Background:
+## 🧠 Project Background:
 An online retail store hired me as a data analytics consultant to help them understand what’s driving their sales and customer behavior. The goal was to give insights to the CEO and CMO so they can make smart decisions about growth and marketing strategies. 
 
-## 2. Deliverables:
+## 📋 Deliverables:
 (a)Key questions from CEO and CMO perspectives
 
 (b)Visual selections and their creations
 
 (c)Insights and recommendations based on the Data Analysis
 
-## 3. Skills Utilized:
+## 🛠️ Skills Utilized:
 (a) Data Analysis
 
 (b) Data Modeling
@@ -26,7 +26,7 @@ An online retail store hired me as a data analytics consultant to help them unde
 ## TASK 1: UNDERSTANDING THE PROBLEM
 I was tasked to draft 8 key questions — 4 for the CEO and 4 for the CMO — that I anticipate they will ask based on the dataset provided. These questions were to guide my presentation and analysis.
 
-CEO Questions (Business Focus):
+📝 CEO Questions (Business Focus):
 
 (a) Which product categories and regions generate the most revenue?
 
@@ -36,7 +36,7 @@ CEO Questions (Business Focus):
 
 (d) Where should we expand next based on performance?
 
-CMO Questions (Marketing Focus):
+📝 CMO Questions (Marketing Focus):
 
 (a) Which marketing channels drive the most conversions?
 
@@ -47,7 +47,8 @@ CMO Questions (Marketing Focus):
 (d) How do different demographics respond to marketing?
 
 ## TASK 2: DATA CLEANUP, DATA MODELLING AND CHOOSING THE RIGHT VISUALS
-(i) Data Cleanup:
+
+🧹 Data Cleanup:
 
 The original dataset included:
 
@@ -63,14 +64,14 @@ These represent returns or errors. Kept only sales with at least 1 unit purchase
 - Excluded rows with Unit Price < 0
 Negative prices are invalid for analysis and likely input mistakes
 
-(ii) Data Modelling
+📐 Data Modelling
 
 After cleaning, I transformed the dataset to support analysis by calculating the Revenue.
 I inputed this in power query for PowerBI:
 
 Revenue = Quantity × Unit Price
 
-(iii) Choosing the right visuals
+📊 Choosing the right visuals
 
 The Summary of Executive Questions by the CEO and CMO that helped me choose the visuals to use for the analysis:
 
@@ -88,15 +89,18 @@ Needs a single-view visual showing demand (quantity sold) across all countries (
 
 ## TASK 3: VISUAL CREATIONS
 After choosing the visuals I made the data Visualizations in PowerBI. Below are the images of the visualizations:
-
-
+![Monthly Revenue Trends in 2011](TataLineGraph.png)
+![Top 10 Countries (Excluding UK)](TataBarchart1.png)
+![Top 10 Customers by Revenue](TataBarchart2.png)
+![Top 10 Customers by Revenue & Country](Tatabarchart3.png)
+![Product Demand by Country Excluding UK](TataMap.png)
 
 ## TASK 4: COMMUNICATING INSIGHTS AND ANALYSIS
 After making the visuals, I presented my findings to the CEO and CMO.  Below is the video:
 
 ## Certificate of Completion
 
-
+[🔗  (Certificate PDF)](Tata_certificate_EannBaraka.pdf) 
 
 
 
