@@ -71,13 +71,20 @@ I inputed this in power query for PowerBI:
 Revenue = Quantity × Unit Price
 
 (iii) Choosing the right visuals
-Line chart – Monthly sales trend
 
-Stacked Column chart – Top-selling product categories
+The Summary of Executive Questions by the CEO and CMO that helped me choose the visuals to use for the analysis:
 
-Stacked Column chart – High Value Customers 
+- CEO – Monthly Revenue Trends (2011)
+Wants to see monthly revenue trends for 2011 to identify seasonal patterns and support future forecasting. Chose a line chart
 
-Map – Sales by region / Country
+- CMO – Top 10 Countries (Excluding UK)
+Needs a view of the top 10 revenue-generating countries (excluding the UK), with both revenue and quantity sold for marketing insights. Chose a Stacked Column chart
+
+- CMO – Top 10 Customers by Revenue
+Wants a chart showing the top 10 customers by revenue, sorted from highest to lowest, to help target and retain high-value customers. Chose a Stacked Column chart
+
+- CEO – Product Demand by Country (Excluding UK)
+Needs a single-view visual showing demand (quantity sold) across all countries (excluding UK) to identify expansion opportunities. Chose a Map
 
 ## TASK 3: VISUAL CREATIONS
 After choosing the visuals I made the data Visualizations in PowerBI. Below are the images of the visualizations:
@@ -85,7 +92,7 @@ After choosing the visuals I made the data Visualizations in PowerBI. Below are 
 
 
 ## TASK 4: COMMUNICATING INSIGHTS AND ANALYSIS
-After making the visuals, I presented my findings to the CEO and CMO. Below is the video:
+After making the visuals, I presented my findings to the CEO and CMO.  Below is the video:
 
 ## Certificate of Completion
 
